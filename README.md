@@ -3,7 +3,7 @@ Based on the microsoft official documnet on [Makecode](https://makecode.com/docs
 
 
 # Whole Picture
-**1. Platform** Focus on user-facing. User can use blocks or javascript to design their own code and workflow.
+**1. Platform** Focus on user-facing. User can use blocks or javascript to design their own code and workflow. </br>
 **2. PXT** For developers. PXT developers are group of people who can change the block totally, not like users can only change certain part of the block. 
 
 
