@@ -25,6 +25,7 @@ Some useful information for your reference
 * Discord https://discordapp.com/invite/ypvQNWy (Highly Recommend)
 * Email makecode@microsoft.com
 
-## Platform
+## Build a Platform
 
 
+## Block Design And Build
