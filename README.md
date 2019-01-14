@@ -25,6 +25,9 @@ Some useful information for your reference
 * Discord https://discordapp.com/invite/ypvQNWy (Highly Recommend)
 * Email makecode@microsoft.com
 
+## Block
+Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown as below.
+
 ## Build a Platform
 
 
