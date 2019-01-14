@@ -6,7 +6,6 @@ Microsoft Makecode is based on the open source project [Microsoft Programming Ex
 
 **1. Platform** Focus on user-facing. User can use blocks or javascript to design their own code and workflow. </br></br>
 Many platforms programmed by makecode already exist and each of them has its own tutorials. (Including the block features, applications in reality and examples)
-</br>
 * Circuits: **Editor Ada-fruit:** https://makecode.adafruit.com/  **Tutorial:** https://makecode.adafruit.com/blocks. 
 * Microbit: **Editor micro-bit:** https://makecode.microbit.org/  **Tutorial:** https://makecode.microbit.org/blocks
 * Minecraft:**Editor Minecraft:** https://minecraft.makecode.com/ **Tutorial:** https://minecraft.makecode.com/blocks
@@ -19,10 +18,13 @@ Many platforms programmed by makecode already exist and each of them has its own
 * Samuel Postcard Making https://samelhusseini.github.io/pxt-holidays/controller.html
 
 
+**2. PXT** For developers. PXT developers are group of people who can change the block totally including changing the block shape, block attribute, block color ect., not like users can only change certain part of the block.
 
-**2. PXT** For developers. PXT developers are group of people who can change the block totally, not like users can only change certain part of the block. 
+Some useful information for your reference
+* Stack Overflow ```makecode``` tag
+* Discord https://discordapp.com/invite/ypvQNWy (Highly Recommend)
+* Email makecode@microsoft.com
 
-
-## 
+## Platform
 
 
