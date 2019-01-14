@@ -3,7 +3,7 @@ Aim to instruct people build a makecode platform and custormize their own blocks
 
 ## Whole Picture
 
-**1. Platform** Focus on user-facing. User can use blocks or javascript to design their own code and workflow. </br>
+**1. Platform** Focus on user-facing. User can use blocks or javascript to design their own code and workflow. </br></br>
 Many platforms programmed by makecode already exist and each of them has its own tutorials. (Including the block features, applications in reality and examples)
 * Circuits: https://makecode.adafruit.com/blocks. Editor: Ada-fruit https://makecode.adafruit.com/
 * Microbit: https://makecode.microbit.org/blocks
