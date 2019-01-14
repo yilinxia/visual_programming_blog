@@ -1,7 +1,8 @@
 # Build a Platform Based on Makecode
 Aim to instruct people build a makecode platform and custormize their own blocks, the content on this page is based on the exsited document including microsoft official documnet on [Makecode](https://makecode.com/docs). PS: There might be some difference from the original ones since some code did not work for me through the process.
 
-## Whole Picture
+## Makecode General Information
+Microsoft Makecode is based on the open source project [Microsoft Programming Experience Toolkit(PXT)](https://github.com/Microsoft/pxt). Microsoft is the name in the user-facing editors (hereinafter called the 'platform'), ```PXT``` is used in all the GitHub sources
 
 **1. Platform** Focus on user-facing. User can use blocks or javascript to design their own code and workflow. </br></br>
 Many platforms programmed by makecode already exist and each of them has its own tutorials. (Including the block features, applications in reality and examples)
@@ -22,6 +23,6 @@ Many platforms programmed by makecode already exist and each of them has its own
 **2. PXT** For developers. PXT developers are group of people who can change the block totally, not like users can only change certain part of the block. 
 
 
-## Makecode General Information
-Microsoft Makecode is based on the open source project [Microsoft Programming Experience Toolkit(PXT)](https://github.com/Microsoft/pxt). Microsoft is the name in the user-facing editors, ```PXT``` is used in all the GitHub sources
+## 
+
 
