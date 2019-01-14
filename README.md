@@ -1,4 +1,5 @@
 # Build a Platform Based on Makecode
+As make 
 
-## 1 Makecode General Information
-1.1 Introduction to Makecode
+## Makecode General Information
+
