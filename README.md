@@ -4,6 +4,8 @@ Aim to instruct people build a makecode platform and custormize their own blocks
 ## Makecode General Information
 Microsoft Makecode is based on the open source project [Microsoft Programming Experience Toolkit(PXT)](https://github.com/Microsoft/pxt). Microsoft is the name in the user-facing editors (hereinafter called the 'platform'), ```PXT``` is used in all the GitHub sources
 
+![General Information of Makecode](https://github.com/YilinXia/Makecode/blob/master/General%20Information%20of%20Makecode.png)
+
 **1. Platform** Focus on user-facing. User can use blocks or javascript to design their own code and workflow. </br></br>
 Many platforms programmed by makecode already exist and each of them has its own tutorials. (Including the block features, applications in reality and examples)
 * Circuits: **Editor Ada-fruit:** https://makecode.adafruit.com/  **Tutorial:** https://makecode.adafruit.com/blocks. 
