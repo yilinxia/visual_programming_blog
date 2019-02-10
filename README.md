@@ -27,11 +27,11 @@ Some useful information for your reference
 * Discord https://discordapp.com/invite/ypvQNWy (Highly Recommend)
 * Email makecode@microsoft.com
 
-## Block
+## Existed Blocks
 Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown as below.
 
-## Build your own Platform
-### Step1: Build local platform (Named "target" in the official document)
+## Build your own Platform (Target)
+### Step1: Build local platform 
 * Install node.js 8+ Go to https://nodejs.org/en/download/  download the appropriate version and then install<br>
 * Install Node.JS and the PXT command line
 ```
@@ -52,6 +52,13 @@ sudo npm install -g install
    npm run serve
    ```
 ### Step2: Update information 
-Since you copy the sample source "pxt-adafruit" to directory pxt-adafruit in step1, so you can find those important files in this file especially pxtarget.json
+Since you copy the sample source "pxt-adafruit" to directory pxt-adafruit in step1, so you can find important files as following in pxt-adafruit file
+* ```/libs```Packages that define the APIs and they shld be exposed in blocks
+* ```/sim```Typescript source for the in-browser simulator, if any
+* ```docs``` markdown documentation pages
+* ```pxtarget.json```  A PXT target is described by a  ```pxtarget.json```
 
-## Block Design And Build
+
+
+
+## Block Design And Build (Extensions)
