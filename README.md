@@ -30,7 +30,28 @@ Some useful information for your reference
 ## Block
 Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown as below.
 
-## Build a Platform
-
+## Build your own Platform
+### Step1: Build local platform (Named "target" in the official document)
+* Install node.js 8+ Go to https://nodejs.org/en/download/  download the appropriate version and then install<br>
+* Install Node.JS and the PXT command line
+```
+sudo npm install -g pxt
+sudo npm install -g install
+```
+* Get a copy of the sample target sources, here the sample used is https://github.com/microsoft/pxt-adafruit
+   * clone
+   ```
+   git clone https://github.com/Microsoft/pxt-adafruit  pxt-adafruit
+   ```
+   * run npm install (under the pxt-adafruit folder)
+   ```
+   cd pxt-adafruitnpm install
+   ```
+   * run the serve (under the pxt-adafruit folder)
+   ```
+   npm run serve
+   ```
+### Step2: Update information 
+Since you copy the sample source "pxt-adafruit" to directory pxt-adafruit in step1, so you can find those important files in this file especially pxtarget.json
 
 ## Block Design And Build
