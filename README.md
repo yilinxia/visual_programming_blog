@@ -64,6 +64,9 @@ Since you copy the sample source "pxt-adafruit" to directory pxt-adafruit in ste
 
 #### Update information of ```package.json```
 :question: what is NPM / change your target id and repositories locations, etc.
+```
+Comments by makecode team on Discord: ignore this part
+```
 
 #### Update information of ```graphical assets```
 Graphical assets are located under ```/docs/static```
