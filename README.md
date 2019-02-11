@@ -31,6 +31,7 @@ Some useful information for your reference
 Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown as below.
 
 ## Build your own Platform (Target)
+![Specific Information about Creating Target](https://github.com/YilinXia/Makecode/blob/master/Stage%20Mindmap.png)
 ### Step1: Copy one sample to local 
 * Install node.js 8+ Go to https://nodejs.org/en/download/  download the appropriate version and then install<br>
 * Install Node.JS and the PXT command line
@@ -58,9 +59,24 @@ Since you copy the sample source "pxt-adafruit" to directory pxt-adafruit in ste
 * ```docs``` markdown documentation pages
 * ```pxtarget.json```  A PXT target is described by a  ```pxtarget.json```
 
+#### Update information of ```pxtarget.json```
+:question: change the ```id/ name/ title```reagarding the sample of ```pxtarget.json```
 
+#### Update information of ```package.json```
+:question: what is NPM / change your target id and repositories locations, etc.
+
+#### Update information of ```graphical assets```
+Graphical assets are located under ```/docs/static```
+* avatar.svg image used in talking heads
+* loader.svg image used in loading overlay
+
+### Step3: Customized Homescreen 
+related files are ```pxtarget.json``` and ```targetconfig.json```
 
 
 ## Block Design And Build (Extensions)
+
+
+
 
 ### Update Feb.11th, 2019
