@@ -4,7 +4,7 @@ Aim to instruct people build a makecode platform and custormize their own blocks
 ## Makecode General Information
 Microsoft Makecode is based on the open source project [Microsoft Programming Experience Toolkit(PXT)](https://github.com/Microsoft/pxt). Microsoft is the name in the user-facing editors (hereinafter called the 'platform'), ```PXT``` is used in all the GitHub sources
 
-![General Information of Makecode](https://github.com/YilinXia/Makecode/blob/master/General%20Information%20of%20Makecode.png)
+![General Information of Makecode](https://github.com/YilinXia/Makecode/blob/master/%20Makecode%20Overview%20V1.png)
 
 **1. Platform** Focus on user-facing. User can use blocks or javascript to design their own code and workflow. </br></br>
 Many platforms programmed by makecode already exist and each of them has its own tutorials. (Including the block features, applications in reality and examples)
@@ -31,7 +31,7 @@ Some useful information for your reference
 Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown as below.
 
 ## Build your own Platform (Target)
-### Step1: Build local platform 
+### Step1: Copy one sample to local 
 * Install node.js 8+ Go to https://nodejs.org/en/download/  download the appropriate version and then install<br>
 * Install Node.JS and the PXT command line
 ```
