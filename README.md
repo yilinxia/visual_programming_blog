@@ -18,7 +18,7 @@ Many platforms programmed by makecode have existed and each of them has its own 
 | Chibi Chip             |The Love to Code Creative Coding Kit is a fun, new way to learn circuits and coding. | [Homepage](https://makecode.chibitronics.com/)    | [Tutorial](https://makecode.chibitronics.com/about) | [Github](https://github.com/Microsoft/pxt-chibitronics)
 | Seed Studio            |When you have your code ready, you connect your Grove Zero Main Board to a computer via a USB cable then press the reset button twice so it appears as a mounted drive（Grove Zero）.| [Homepage](https://makecode.seeedstudio.com/)     | [Tutorial](https://makecode.seeedstudio.com/blocks) | [Github](https://github.com/Seeed-Studio/pxt-grove-zero-for-microbit)
 | Beat the traffic       |By setting values, simulator could calculate the efficiency of the road| [Homepage](https://liolop.github.io/Coraffic/)     | NULL| NULL
-| Cornell Build your face|By setting values, simulator could calculate the efficiency of the road| [Homepage](https://jcspec.github.io/BuildUFace/#)      | NULL|NULL
+| Cornell Build your face|An editor for personalizing mask on your face captured by camera  | [Homepage](https://jcspec.github.io/BuildUFace/#)      | NULL|NULL
 | Arcadia    |An editor for Marker-based Augmented Reality|[Homepage](https://laboratoryforplayfulcomputation.github.io/arcadia/)     |[Tutorial](https://laboratoryforplayfulcomputation.github.io/arcadia/docs/examples/piano.html)| NULL
 | Samuel Postcard Making    |A Blocks / JavaScript code editor for the holidays powered by Microsoft MakeCode.y| [Homepage](https://samelhusseini.github.io/pxt-holidays/controller.html) | NULL| [Github](https://github.com/samelhusseini/pxt-holidays)
 
