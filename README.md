@@ -9,18 +9,18 @@ Microsoft Makecode is based on the open source project [Microsoft Programming Ex
 **1. Platform (User-Facing)** Composed of homepage, simulator, blocks console, and javascript console.User can use blocks or javascript to design their own code and workflow and the result will show within simulator area simultaneously</br></br>
 Many platforms programmed by makecode have existed and each of them has its own tutorials. (Including the block features, applications in reality and examples)
 
-| Platform Name          | Homepage                                          | Tutorial                                |Github
-| -------------------    |:-------------                                     | :-----                                  |:-----
-| Ada-fruit              | [Homepage](https://makecode.adafruit.com/)        | [Tutorial](https://makecode.adafruit.com/blocks)    |
-| Microbit               | [Homepage](https://makecode.microbit.org/)        | [Tutorial](https://makecode.microbit.org/blocks)    |
-| Minecraft              | [Homepage](https://minecraft.makecode.com/)       | [Tutorial](https://minecraft.makecode.com/blocks)   |
-| Lego Education         | [Homepage](https://makecode.mindstorms.com/)      | [Tutorial](https://makecode.mindstorms.com/blocks)  |
-| Chibi Chip             | [Homepage](https://makecode.chibitronics.com/)    | [Tutorial](https://makecode.chibitronics.com/about) |
-| Seed Studio            | [Homepage](https://makecode.seeedstudio.com/)     | [Tutorial](https://makecode.seeedstudio.com/blocks) |
-| Beat the traffic       | [Homepage](https://liolop.github.io/Coraffic/)     | NULL|
-| Cornell Build your face| [Homepage](https://jcspec.github.io/BuildUFace/#)      | NULL|
-| Arcadia    |[Homepage](https://laboratoryforplayfulcomputation.github.io/arcadia/)     |[Tutorial](https://laboratoryforplayfulcomputation.github.io/arcadia/docs/examples/piano.html)|
-| Samuel Postcard Making    | [Homepage](https://samelhusseini.github.io/pxt-holidays/controller.html) | NULL|
+| Platform Name          |Description       | Homepage                                          | Tutorial              |Github
+| -------------------    |:-------------    |:-------------                                     | :-----                |:-----
+| Ada-fruit              | You can run your code using the Adafruit Circuit Playground Express simulator, all within the confines of a web browser. The simulator has support for the LED screen, buttons, as well as compass, accelerometer, and digital I/O pins.                 | [Homepage](https://makecode.adafruit.com/)        | [Tutorial](https://makecode.adafruit.com/blocks)    |[Github](https://github.com/Microsoft/pxt-adafruit)
+| Microbit               | The micro:bit provides an easy and fun introduction to programming and making – switch on, program it to do something fun – wear it, customize it. Just like Arduino, the micro:bit can be connected to and interact with sensors, displays, and other devices.| [Homepage](https://makecode.microbit.org/)        | [Tutorial](https://makecode.microbit.org/blocks)    |[Github](https://github.com/Microsoft/pxt-microbit)
+| Minecraft              |MakeCode for Minecraft is a code editor to build fun mods and programs for Minecraft. | [Homepage](https://minecraft.makecode.com/)       | [Tutorial](https://minecraft.makecode.com/blocks)   |NULL
+| Lego Education         |You can run your code using the LEGO® MINDSTORMS® Education EV3 simulator, all inside the same browser window. The simulator has support for the EV3 Brick screen, buttons, sensors, and motors. | [Homepage](https://makecode.mindstorms.com/)      | [Tutorial](https://makecode.mindstorms.com/blocks)  |NULL
+| Chibi Chip             |The Love to Code Creative Coding Kit is a fun, new way to learn circuits and coding. | [Homepage](https://makecode.chibitronics.com/)    | [Tutorial](https://makecode.chibitronics.com/about) | [Github](https://github.com/Microsoft/pxt-chibitronics)
+| Seed Studio            |When you have your code ready, you connect your Grove Zero Main Board to a computer via a USB cable then press the reset button twice so it appears as a mounted drive（Grove Zero）.| [Homepage](https://makecode.seeedstudio.com/)     | [Tutorial](https://makecode.seeedstudio.com/blocks) | [Github](https://github.com/Seeed-Studio/pxt-grove-zero-for-microbit)
+| Beat the traffic       |By setting values, simulator could calculate the efficiency of the road| [Homepage](https://liolop.github.io/Coraffic/)     | NULL| NULL
+| Cornell Build your face|By setting values, simulator could calculate the efficiency of the road| [Homepage](https://jcspec.github.io/BuildUFace/#)      | NULL|NULL
+| Arcadia    |An editor for Marker-based Augmented Reality|[Homepage](https://laboratoryforplayfulcomputation.github.io/arcadia/)     |[Tutorial](https://laboratoryforplayfulcomputation.github.io/arcadia/docs/examples/piano.html)| NULL
+| Samuel Postcard Making    |A Blocks / JavaScript code editor for the holidays powered by Microsoft MakeCode.y| [Homepage](https://samelhusseini.github.io/pxt-holidays/controller.html) | NULL| [Github](https://github.com/samelhusseini/pxt-holidays)
 
 
 
