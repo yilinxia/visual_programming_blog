@@ -8,16 +8,20 @@ Microsoft Makecode is based on the open source project [Microsoft Programming Ex
 
 **1. Platform (User-Facing)** Composed of homepage, simulator, blocks console, and javascript console.User can use blocks or javascript to design their own code and workflow and the result will show within simulator area simultaneously</br></br>
 Many platforms programmed by makecode have existed and each of them has its own tutorials. (Including the block features, applications in reality and examples)
-* Circuits: **Editor Ada-fruit:** https://makecode.adafruit.com/  **Tutorial:** https://makecode.adafruit.com/blocks. 
-* Microbit: **Editor micro-bit:** https://makecode.microbit.org/  **Tutorial:** https://makecode.microbit.org/blocks
-* Minecraft:**Editor Minecraft:** https://minecraft.makecode.com/ **Tutorial:** https://minecraft.makecode.com/blocks
-* Lego Education: https://makecode.mindstorms.com/blocks
-* Chibi Chip: https://makecode.chibitronics.com/about
-* Seed Studio: https://makecode.seeedstudio.com/blocks
-* Beat the traffic: https://liolop.github.io/Coraffic/
-* Cornell Build your face: https://jcspec.github.io/BuildUFace/
-* Arcadia https://laboratoryforplayfulcomputation.github.io/arcadia/docs/about.html
-* Samuel Postcard Making https://samelhusseini.github.io/pxt-holidays/controller.html
+
+| Platform Name          | Homepage                                          | Tutorial                                |Github
+| -------------------    |:-------------                                     | :-----                                  |:-----
+| Ada-fruit              | [Homepage](https://makecode.adafruit.com/)        | [Tutorial](https://makecode.adafruit.com/blocks)    |
+| Microbit               | [Homepage](https://makecode.microbit.org/)        | [Tutorial](https://makecode.microbit.org/blocks)    |
+| Minecraft              | [Homepage](https://minecraft.makecode.com/)       | [Tutorial](https://minecraft.makecode.com/blocks)   |
+| Lego Education         | [Homepage](https://makecode.mindstorms.com/)      | [Tutorial](https://makecode.mindstorms.com/blocks)  |
+| Chibi Chip             | [Homepage](https://makecode.chibitronics.com/)    | [Tutorial](https://makecode.chibitronics.com/about) |
+| Seed Studio            | [Homepage](https://makecode.seeedstudio.com/)     | [Tutorial](https://makecode.seeedstudio.com/blocks) |
+| Beat the traffic       | [Homepage](https://liolop.github.io/Coraffic/)     | NULL|
+| Cornell Build your face| [Homepage](https://jcspec.github.io/BuildUFace/#)      | NULL|
+| Arcadia    |[Homepage](https://laboratoryforplayfulcomputation.github.io/arcadia/)     |[Tutorial](https://laboratoryforplayfulcomputation.github.io/arcadia/docs/examples/piano.html)|
+| Samuel Postcard Making    | [Homepage](https://samelhusseini.github.io/pxt-holidays/controller.html) | NULL|
+
 
 
 **2. PXT (Developers-Oriented)** . PXT developers are group of people who can reorganize homescreen, build simulators and javascript console, customize blocks including naming attributes, defining new functions ect.
