@@ -32,9 +32,9 @@ Some useful information for your reference
 * Email makecode@microsoft.com
 
 ## Existed Blocks
-Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown as below.
+Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown below.
 
-### blocks
+### Basic Blocks
 | Types                  |Name              | Function                    | Looks like            
 | -------------------    |:-------------    |:----------                  | :-----              
 | Loops                  |for               |Repeat code for a given number of times using an index | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/for.png" width="40%" height="30%">               
@@ -43,23 +43,25 @@ Certainly, blocks in the platform represent certain lines of code and by combini
 |                        |for of            |Repeat code for each item in a list  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/For of.png" width="40%" height="30%"> 
 |                        |forever            |Repeat code for a given number of times  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Forever.png" width="30%" height="30%"> 
 |                        |pause              |Pause for the specified time in milliseconds  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Pause.png" width="30%" height="30%"> 
+|                        |runInBackground    |Run this code in parallel with the current code  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/runinbackgroud.png" width="30%" height="30%"> 
 | Logic                  |if               |Conditional statement | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/if.png" width="30%" height="30%"> 
 |                        |boolean          |True or false values | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/boolean.png" width="30%" height="30%"> 
 | Variable               |assign             |Assign(set) a variable's value | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Assign.png" width="30%" height="30%"> 
 |                        |change             |change a variable's value | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Change.png" width="30%" height="30%"> 
 
 
-## Software & System Information
-System: Mac V10.13.6<br>
-Version: <br>
-Node v10.13.0 <br>
-NPM v6.7.0
 
 
 ## Build your own Platform (Target)
 ![Specific Information about Creating Target](https://github.com/YilinXia/Makecode/blob/master/Create%20Target.png)
 
 <br>Reference:[Target-Creation](https://makecode.com/target-creation) 
+
+### Software & System Information
+System: Mac V10.13.6<br>
+Version: <br>
+Node v10.13.0 <br>
+NPM v6.7.0
 
 ### Step1: Copy one sample to local 
 * Install node.js 8+ Go to https://nodejs.org/en/download/  download the appropriate version and then install<br>
@@ -115,4 +117,4 @@ related files are ```pxtarget.json``` and ```targetconfig.json```
 <br>
 <br>
 
-### Update Feb.16th, 2019
+### Update Feb.17th, 2019
