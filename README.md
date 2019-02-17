@@ -34,6 +34,20 @@ Some useful information for your reference
 ## Existed Blocks
 Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown as below.
 
+### blocks
+| Types                  |Name              | Function                    | Looks like            
+| -------------------    |:-------------    |:----------                  | :-----              
+| Loops                  |for               |Repeat code for a given number of times using an index | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/for.png" width="40%" height="30%">               
+|                        |while             |Repeat code while a condition is true  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/While.png" width="30%" height="30%">  
+|                        |repeat            |Repeat code for a given number of times  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Repeat.png" width="30%" height="30%"> 
+|                        |for of            |Repeat code for each item in a list  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/For of.png" width="40%" height="30%"> 
+|                        |forever            |Repeat code for a given number of times  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Forever.png" width="30%" height="30%"> 
+|                        |pause              |Pause for the specified time in milliseconds  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Pause.png" width="30%" height="30%"> 
+| Logic                  |if               |Conditional statement | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/if.png" width="30%" height="30%"> 
+|                        |boolean          |True or false values | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/boolean.png" width="30%" height="30%"> 
+| Variable               |assign             |Assign(set) a variable's value | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Assign.png" width="30%" height="30%"> 
+|                        |change             |change a variable's value | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Change.png" width="30%" height="30%"> 
+
 
 ## Software & System Information
 System: Mac V10.13.6<br>
@@ -44,6 +58,9 @@ NPM v6.7.0
 
 ## Build your own Platform (Target)
 ![Specific Information about Creating Target](https://github.com/YilinXia/Makecode/blob/master/Create%20Target.png)
+
+<br>Reference:[Target-Creation](https://makecode.com/target-creation) 
+
 ### Step1: Copy one sample to local 
 * Install node.js 8+ Go to https://nodejs.org/en/download/  download the appropriate version and then install<br>
 * Install Node.JS and the PXT command line
@@ -69,9 +86,10 @@ Since you copy the sample source "pxt-adafruit" to directory pxt-adafruit in ste
 * ```/libs```Packages that define the APIs and they shld be exposed in blocks
 * ```/sim```Typescript source for the in-browser simulator, if any
 * ```docs``` markdown documentation pages
-* ```pxtarget.json```  A PXT target is described by a  ```pxtarget.json```
+* ```pxtarget.json```  A PXT target is described by a  ```pxtarget.json```  
 
 #### Update information of ```pxtarget.json```
+Reference: [pxtarget.json](https://makecode.com/targets/pxtarget)<br>
 :question: change the ```id/ name/ title```reagarding the sample of ```pxtarget.json```
 
 #### Update information of ```package.json```
@@ -86,6 +104,7 @@ Graphical assets are located under ```/docs/static```
 * loader.svg image used in loading overlay
 
 ### Step3: Customized Homescreen 
+Reference: [Homescreen](https://makecode.com/targets/home-screen) <br>
 related files are ```pxtarget.json``` and ```targetconfig.json```
 
 
