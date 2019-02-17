@@ -37,7 +37,8 @@ Certainly, blocks in the platform represent certain lines of code and by combini
 ### Basic Blocks
 | Types                  |Name              | Function                    | Looks like            
 | -------------------    |:-------------    |:----------                  | :-----              
-| Loops                  |for               |Repeat code for a given number of times using an index | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/for.png" width="40%" height="30%">               
+| Loops                  |on start          |An event that runs when the program starts | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Onstart.png" width="40%" height="30%">      
+|                        |for               |Repeat code for a given number of times using an index | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/for.png" width="40%" height="30%">               
 |                        |while             |Repeat code while a condition is true  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/While.png" width="30%" height="30%">  
 |                        |repeat            |Repeat code for a given number of times  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Repeat.png" width="30%" height="30%"> 
 |                        |for of            |Repeat code for each item in a list  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/For of.png" width="40%" height="30%"> 
@@ -45,12 +46,15 @@ Certainly, blocks in the platform represent certain lines of code and by combini
 |                        |pause              |Pause for the specified time in milliseconds  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Pause.png" width="30%" height="30%"> 
 |                        |runInBackground    |Run this code in parallel with the current code  | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/runinbackgroud.png" width="30%" height="30%"> 
 | Logic                  |if               |Conditional statement | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/if.png" width="30%" height="30%"> 
-|                        |boolean          |True or false values | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/boolean.png" width="30%" height="30%"> 
+|                        |boolean          |True or false values | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Boolean.png" width="30%" height="30%">
+|                        |comparison       |Compare two values, usually locate as the condition of if | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Comparison.png" width="30%" height="30%">
 | Variable               |assign             |Assign(set) a variable's value | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Assign.png" width="30%" height="30%"> 
 |                        |change             |change a variable's value | <img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Change.png" width="30%" height="30%"> 
 
-
-
+### Basic build-in objects
+| Type                   | Functions                                      | Achieved operation             
+| -------------------    |:----------                                     | :-----   
+| Math                   |using math, math operators and math functions   |integer/float/ binary operation/ remainder/ Exponent / Square root/ Absolute value/ minimum and maxmum / random value / constrain
 
 ## Build your own Platform (Target)
 ![Specific Information about Creating Target](https://github.com/YilinXia/Makecode/blob/master/Create%20Target.png)
