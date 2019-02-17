@@ -20,7 +20,7 @@ Many platforms programmed by makecode have existed and each of them has its own 
 | Beat the traffic       |By setting values, simulator could calculate the efficiency of the road| [Homepage](https://liolop.github.io/Coraffic/)     | NULL| NULL
 | Cornell Build your face|An editor for personalizing mask on your face captured by camera  | [Homepage](https://jcspec.github.io/BuildUFace/#)      | NULL|NULL
 | Arcadia    |An editor for Marker-based Augmented Reality|[Homepage](https://laboratoryforplayfulcomputation.github.io/arcadia/)     |[Tutorial](https://laboratoryforplayfulcomputation.github.io/arcadia/docs/examples/piano.html)| NULL
-| Samuel Postcard Making    |A Blocks / JavaScript code editor for the holidays powered by Microsoft MakeCode.y| [Homepage](https://samelhusseini.github.io/pxt-holidays/controller.html) | NULL| [Github](https://github.com/samelhusseini/pxt-holidays)
+| Samuel Postcard Making    |A Blocks / JavaScript code editor for the holidays powered by Microsoft MakeCode| [Homepage](https://samelhusseini.github.io/pxt-holidays/controller.html) | NULL| [Github](https://github.com/samelhusseini/pxt-holidays)
 
 
 
@@ -33,6 +33,14 @@ Some useful information for your reference
 
 ## Existed Blocks
 Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown as below.
+
+
+## Software & System Information
+System: Mac V10.13.6<br>
+Version: <br>
+Node v10.13.0 <br>
+NPM v6.7.0
+
 
 ## Build your own Platform (Target)
 ![Specific Information about Creating Target](https://github.com/YilinXia/Makecode/blob/master/Create%20Target.png)
