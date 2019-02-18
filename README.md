@@ -4,7 +4,7 @@ Aim to instruct people build a makecode platform and custormize their own blocks
 ## Makecode General Information
 Microsoft Makecode is based on the open source project [Microsoft Programming Experience Toolkit(PXT)](https://github.com/Microsoft/pxt). Microsoft Makecode is the name in the user-facing editors (hereinafter called the 'platform'), ```PXT``` is used in all the GitHub sources.
 
-![General Information of Makecode](https://github.com/YilinXia/Makecode/blob/master/General%20Information.png)
+![General Information of Makecode](https://github.com/YilinXia/Makecode/blob/master/Picture/General%20Information.png)
 
 **1. Platform (User-Facing)** Composed of homepage, simulator, blocks console, and javascript console.User can use blocks or javascript to design their own code and workflow and the result will show within simulator area simultaneously</br></br>
 Many platforms programmed by makecode have existed and each of them has its own tutorials. (Including the block features, applications in reality and examples)
@@ -34,6 +34,8 @@ Some useful information for your reference
 ## Existed Blocks
 Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown below.
 
+![Blocks information](https://github.com/YilinXia/Makecode/blob/master/Picture/Blocks.png)
+
 ### Basic Blocks
 | Types                  |Name              | Function                    | Looks like            
 | -------------------    |:-------------    |:----------                  | :-----              
@@ -59,7 +61,7 @@ Certainly, blocks in the platform represent certain lines of code and by combini
 | Arrays                  |Add,remove, and replace items in lists         |return the index of the first occurence of a value in an array/ append a new element to an array/ remove element from an array and return it/ add element to an array and return the new length / insert the value at a particular index / remove the element at a certain index
 
 ## Build your own Platform (Target)
-![Specific Information about Creating Target](https://github.com/YilinXia/Makecode/blob/master/Create%20Target.png)
+![Specific Information about Creating Target](https://github.com/YilinXia/Makecode/blob/master/Picture/Create%20Target.png)
 
 <br>Reference:[Target-Creation](https://makecode.com/target-creation) 
 
