@@ -34,7 +34,7 @@ Some useful information for your reference
 ## Existed Blocks
 Certainly, blocks in the platform represent certain lines of code and by combining them, users can launch functions such as forloop, boolean statement and so on. After reviewing the existed platforms and the blocks they contain, blocks can be divided into groups and detailed information is shown below.
 
-![Blocks information](https://github.com/YilinXia/Makecode/blob/master/Picture/Blocks.png)
+<img src="https://github.com/YilinXia/Makecode/blob/master/Picture/Blocks.png" width="60%" height="40%">
 
 ### Basic Blocks
 | Types                  |Name              | Function                    | Looks like            
