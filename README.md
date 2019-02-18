@@ -55,6 +55,8 @@ Certainly, blocks in the platform represent certain lines of code and by combini
 | Type                   | Functions                                      | Achieved operation             
 | -------------------    |:----------                                     | :-----   
 | Math                   |using math, math operators and math functions   |integer/float/ binary operation/ remainder/ Exponent / Square root/ Absolute value/ minimum and maxmum / random value / constrain
+| Text                   |Functions to combine, split, and search text strings   |return the character at the specified index/ compare order of two strings/ return substring of the current string/ convert string to number/ convert string to integer
+| Arrays                  |Add,remove, and replace items in lists         |return the index of the first occurence of a value in an array/ append a new element to an array/ remove element from an array and return it/ add element to an array and return the new length / insert the value at a particular index / remove the element at a certain index
 
 ## Build your own Platform (Target)
 ![Specific Information about Creating Target](https://github.com/YilinXia/Makecode/blob/master/Create%20Target.png)
