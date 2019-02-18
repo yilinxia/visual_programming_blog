@@ -2,12 +2,12 @@
 Aim to instruct people build a makecode platform and custormize their own blocks, the content on this page is based on the exsited document including microsoft official documnet on [Makecode](https://makecode.com/docs) and tutorials of serveral platforms. PS: There might be some differences from the original ones since some code did not work for me through the process.
 
 ## Makecode General Information
-Microsoft Makecode is based on the open source project [Microsoft Programming Experience Toolkit(PXT)](https://github.com/Microsoft/pxt). Microsoft Makecode is the name in the user-facing editors (hereinafter called the 'platform'), ```PXT``` is used in all the GitHub sources.
+Microsoft Makecode is based on the open source project [Microsoft Programming Experience Toolkit(PXT)](https://github.com/Microsoft/pxt). Microsoft Makecode is the name in the user-facing editors (hereinafter called the 'platform' or 'target'), ```PXT``` is used in all the GitHub sources.
 
 ![General Information of Makecode](https://github.com/YilinXia/Makecode/blob/master/Picture/General%20Information.png)
 
-**1. Platform (User-Facing)** Composed of homepage, simulator, blocks console, and javascript console.User can use blocks or javascript to design their own code and workflow and the result will show within simulator area simultaneously</br></br>
-Many platforms programmed by makecode have existed and each of them has its own tutorials. (Including the block features, applications in reality and examples)
+**1. Platform (User-Facing)** Composed of homepage, simulator, blocks console, and javascript console.User can use blocks or javascript to design their own code and workflow and the result will show within simulator area simultaneously.</br></br>
+Many platforms programmed by makecode have existed and each of them has its own tutorials. (Including the block features, applications in reality and examples).
 
 | Platform Name          |Description       | Homepage                                          | Tutorial              |Github
 | -------------------    |:-------------    |:-------------                                     | :-----                |:-----
@@ -60,7 +60,7 @@ Certainly, blocks in the platform represent certain lines of code and by combini
 | Text                   |Functions to combine, split, and search text strings   |return the character at the specified index/ compare order of two strings/ return substring of the current string/ convert string to number/ convert string to integer
 | Arrays                  |Add,remove, and replace items in lists         |return the index of the first occurence of a value in an array/ append a new element to an array/ remove element from an array and return it/ add element to an array and return the new length / insert the value at a particular index / remove the element at a certain index
 
-## Build your own Platform (Target)
+## Build your own Target
 ![Specific Information about Creating Target](https://github.com/YilinXia/Makecode/blob/master/Picture/Create%20Target.png)
 
 <br>Reference:[Target-Creation](https://makecode.com/target-creation) 
