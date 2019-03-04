@@ -98,7 +98,7 @@ Since you copy the sample source "pxt-adafruit" to directory pxt-adafruit in ste
 * ```docs``` markdown documentation pages
 * ```pxtarget.json```  Where a PXT target is described  [pxtarget.json](https://makecode.com/targets/pxtarget)
 * ```targetconfig.json``` change the structure of home screen  [targetconfig.json](https://makecode.com/targets/home-screen)
-* ```package.json``` all PXT target also must supply an this JSON file
+* ```package.json``` all PXT target also must supply an this JSON file [package.json](https://docs.npmjs.com/files/package.json)
 * ```graphical assets```  where storing pictures and icons of editor homepage and located under ```/docs/static```
 
 #### Relationship between attributes of ```pxtarget.json``` &```package.json``` & ```targetconfig.json```
@@ -108,9 +108,10 @@ Based on the three files of PXT-adafruit & [pxt-holidays/pxtarget.json](https://
 :question: change the ```id/ name/ title```reagarding the sample of ```pxtarget.json```<br>
 
 #### Update information of ```package.json```
-:question: what is NPM / change your target id and repositories locations, etc.
-```Answer: Comments by makecode team on Discord: ignore this part
-```
+:question: what is NPM / change your target id and repositories locations, etc. <br>
+
+```Comments by makecode team on Discord: ignore this part```
+
 #### Customized structure of homescreen```targetconfig.json```
 related files are ```pxtarget.json``` and ```targetconfig.json```
 
