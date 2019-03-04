@@ -91,16 +91,22 @@ sudo npm install -g install
    ```
    npm run serve
    ```
-### Step2: Update information 
+### Step2: Update information & Customized Homescreen 
 Since you copy the sample source "pxt-adafruit" to directory pxt-adafruit in step1, so you can find important files as following in pxt-adafruit file
 * ```/libs```Packages that define the APIs and they shld be exposed in blocks
 * ```/sim```Typescript source for the in-browser simulator, if any
 * ```docs``` markdown documentation pages
 * ```pxtarget.json```  A PXT target is described by a  ```pxtarget.json```  
+* ```targetconfig.json``` change the structure of home screen  [GitHub instruction](https://makecode.com/targets/home-screen)
+* ```package.json``` all PXT target also must supply an this JSON file
+
+#### Relationship between attributes of ```pxtarget.json``` &```package.json``` & ```targetconfig.json```
 
 #### Update information of ```pxtarget.json```
 Reference: [pxtarget.json](https://makecode.com/targets/pxtarget)<br>
-:question: change the ```id/ name/ title```reagarding the sample of ```pxtarget.json```
+:question: change the ```id/ name/ title```reagarding the sample of ```pxtarget.json```<br>
+Compare the [pxt-holidays/pxtarget.json](https://github.com/samelhusseini/pxt-holidays/blob/master/pxtarget.json) with adafruit, then figure out which part we could change and associate with corresponding part of editor homepage.
+
 
 #### Update information of ```package.json```
 :question: what is NPM / change your target id and repositories locations, etc.
@@ -113,7 +119,7 @@ Graphical assets are located under ```/docs/static```
 * avatar.svg image used in talking heads
 * loader.svg image used in loading overlay
 
-### Step3: Customized Homescreen 
+#### Customized structure of homescreen
 Reference: [Homescreen](https://makecode.com/targets/home-screen) <br>
 related files are ```pxtarget.json``` and ```targetconfig.json```
 
@@ -125,4 +131,4 @@ related files are ```pxtarget.json``` and ```targetconfig.json```
 <br>
 <br>
 
-### Update Feb.17th, 2019
+### Update Mar.4th, 2019
