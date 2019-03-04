@@ -96,32 +96,27 @@ Since you copy the sample source "pxt-adafruit" to directory pxt-adafruit in ste
 * ```/libs```Packages that define the APIs and they shld be exposed in blocks
 * ```/sim```Typescript source for the in-browser simulator, if any
 * ```docs``` markdown documentation pages
-* ```pxtarget.json```  A PXT target is described by a  ```pxtarget.json```  
-* ```targetconfig.json``` change the structure of home screen  [GitHub instruction](https://makecode.com/targets/home-screen)
+* ```pxtarget.json```  Where a PXT target is described  [pxtarget.json](https://makecode.com/targets/pxtarget)
+* ```targetconfig.json``` change the structure of home screen  [targetconfig.json](https://makecode.com/targets/home-screen)
 * ```package.json``` all PXT target also must supply an this JSON file
+* ```graphical assets```  where storing pictures and icons of editor homepage and located under ```/docs/static```
 
 #### Relationship between attributes of ```pxtarget.json``` &```package.json``` & ```targetconfig.json```
+Based on the three files of PXT-adafruit & [pxt-holidays/pxtarget.json](https://github.com/samelhusseini/pxt-holidays/blob/master/pxtarget.json) , then figure out the relationship among these attributes and associate them with corresponding part of editor homepage.
 
 #### Update information of ```pxtarget.json```
-Reference: [pxtarget.json](https://makecode.com/targets/pxtarget)<br>
 :question: change the ```id/ name/ title```reagarding the sample of ```pxtarget.json```<br>
-Compare the [pxt-holidays/pxtarget.json](https://github.com/samelhusseini/pxt-holidays/blob/master/pxtarget.json) with adafruit, then figure out which part we could change and associate with corresponding part of editor homepage.
-
 
 #### Update information of ```package.json```
 :question: what is NPM / change your target id and repositories locations, etc.
+```Answer: Comments by makecode team on Discord: ignore this part
 ```
-Comments by makecode team on Discord: ignore this part
-```
+#### Customized structure of homescreen```targetconfig.json```
+related files are ```pxtarget.json``` and ```targetconfig.json```
 
-#### Update information of ```graphical assets```
-Graphical assets are located under ```/docs/static```
+#### Beautify your editor```graphical assets```
 * avatar.svg image used in talking heads
 * loader.svg image used in loading overlay
-
-#### Customized structure of homescreen
-Reference: [Homescreen](https://makecode.com/targets/home-screen) <br>
-related files are ```pxtarget.json``` and ```targetconfig.json```
 
 
 ## Block Design And Build (Extensions)
